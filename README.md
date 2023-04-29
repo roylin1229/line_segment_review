@@ -1,2 +1,1 @@
-# line_segment_review
-line segment detection and description review
+The code will be released soon.
