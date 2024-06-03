@@ -11,6 +11,19 @@ To run the example, follow these steps:
 3. Run the "eva_detection_wo_demo.m" script to evaluate line segment detection algorithms without ground truth line segments.  
 4. Run the "eva_description_demo.m" script to evaluate line segment description algorithms.  
 
+## Evaluation Datasets
+| **Dataset** | **# Groups/# Images** | **Evaluation type** | **Ground truth** | **Note** |
+|-------------|-----------------------|---------------------|------------------|----------|
+| HPatches | 116/696 | Detection and description | N/A | Natural images with variations in illumination and viewpoint. |
+| KADID-10k | 81/10,206 | Detection and description | N/A | Testing images with artificial distortions of blur, color distortion, compression, noise, brightness change, spatial distortion, and sharpness/contrast. |
+| RDNIM | 17/1,739 | Detection and description | N/A | Natural images with variations in light and homographic warp. |
+| DNIM | 17/1,722 | Detection and description | N/A | Natural images with variation in light. |
+| Apollo | 1,000/2,087 | Detection and description | N/A | Synthetic images with variation in light. |
+| VGGaffine | 8/48 | Detection and description | N/A | Natural images with variations in blur, viewpoint, zoom/rotation, light, and JPEG. |
+| Wireframe | 462/462 | Detection | Wireframe | Natural images in both indoor and outdoor scenarios. |
+| YorkUrban | 102/102 | Detection | Line segment | Natural images in both indoor and outdoor scenarios. |
+
+
 ## Contact
 
 If you have any questions or need further assistance, feel free to contact us at: roylin_cv@163.com
