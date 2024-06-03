@@ -1,4 +1,4 @@
-# Line Segment Detection and Description Evaluation
+# Line Segment Detection and Description Evaluation Code
 
 **X. Lin, Y. Zhou, Y. Liu and C. Zhu, "A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges," in IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024.**
 
