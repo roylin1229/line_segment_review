@@ -43,8 +43,8 @@ The framework supports evaluation on the following datasets:
 ## Additional Resources
 
 - **Project Homepage**: Visit the [project homepage](https://roylin1229.github.io/LSD_Review/) for detailed information, additional resources, and updates.
-- **Comprehensive Collection of Line Segment Detection Algorithms**: Explore a curated collection of algorithms [here](https://roylin1229.github.io/LSD_Review/).
-- **Comprehensive Collection of Line Segment Description Algorithms**: Discover a detailed collection of algorithms [here](https://roylin1229.github.io/LSD_Review/).
+- **Comprehensive Collection of Line Segment Detection Algorithms**: [here](https://roylin1229.github.io/LSD_Review/).
+- **Comprehensive Collection of Line Segment Description Algorithms**: [here](https://roylin1229.github.io/LSD_Review/).
 
 ## Contact
 
@@ -57,11 +57,12 @@ If you use this framework in your research, please cite the following paper:
 ```bibtex
 @ARTICLE{10530374,
   author={Lin, Xinyu and Zhou, Yingjie and Liu, Yipeng and Zhu, Ce},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  title={A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-20},
-  doi={10.1109/TPAMI.2024.3400881}
-}
+  volume={46},
+  number={12},
+  pages={8074-8093},
+  keywords={Image segmentation;Reviews;Task analysis;Image edge detection;Feature extraction;Taxonomy;Motion segmentation;Line segment description;line segment detection;line segment matching;low-level feature},
+  doi={10.1109/TPAMI.2024.3400881}}
+
