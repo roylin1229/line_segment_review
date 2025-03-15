@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository provides the official implementation and evaluation framework for the research paper *"A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges"*. The framework includes tools for evaluating line segment detection and description algorithms on various datasets. Additionally, it serves as a comprehensive resource for researchers and practitioners in the field of computer vision.
+This repository provides the official implementation and evaluation framework for the review paper *"A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges"*. The framework includes tools for evaluating line segment detection and description algorithms on various datasets. Additionally, it serves as a comprehensive resource for researchers and practitioners in the field of computer vision.
 
 ### Key Features
 - **Evaluation of Line Segment Detection Algorithms**: Supports evaluation with and without ground truth line segments.
